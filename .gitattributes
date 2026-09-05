@@ -1,0 +1,11 @@
+# Exclude build artifacts
+# Normalize line endings
+yarn.lock linguist-generated
+
+*.html linguist-vendored
+public/**/*.html linguist-vendored
+
+*.ts linguist-detectable
+
+*.jpeg binary
+*.woff binary
