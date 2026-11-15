@@ -1,0 +1,6 @@
+npm-debug.log*
+.env
+.next/
+coverage/
+.pnpm-store/
+.DS_Store
